@@ -1,8 +1,7 @@
-![logo](https://cdn.dribbble.com/userupload/5341801/file/original-4446b76e2667e08e6f4e8d4714988212.jpeg)
 <h1 align="center">Hi 👋, I'm xzourt</h1>
 <img align="right" alt="coding" width="400" src="https://h.top4top.io/p_3010vg3j31.gif" />
 
-## Info
+## My Information
 ```bash
 (
   {
